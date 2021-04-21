@@ -9,6 +9,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGotYu/note-taker-ay.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/iGotYu/note-taker-ay/issues"
+  },
+  "homepage": "https://github.com/iGotYu/note-taker-ay#readme"
 }
